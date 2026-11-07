@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450" viewBox="0 0 600 450">
+  <title>หมวกแก๊ปที่ฝากไว้ กับมือถือที่มีข้อความแชทแรก</title>
+  <rect width="600" height="450" fill="#f4ede6"/>
+  <circle cx="90" cy="70" r="7" fill="#d9c9b6"/>
+  <circle cx="540" cy="390" r="9" fill="#d9c9b6"/>
+  <circle cx="300" cy="40" r="5" fill="#d9c9b6"/>
+  <!-- โต๊ะ -->
+  <path d="M0 330 H600 V450 H0 Z" fill="#e2d2bf"/>
+  <path d="M0 330 H600" stroke="#c9b49c" stroke-width="5"/>
+  <!-- หมวก -->
+  <g transform="translate(-34 6) rotate(-8 190 270)">
+    <ellipse cx="200" cy="330" rx="150" ry="18" fill="#cdb9a2"/>
+    <path d="M70 300 C70 205 125 150 200 150 C275 150 330 205 330 300 Z" fill="#4f6f9e" stroke="#3a312b" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M200 150 C185 200 180 250 182 300" fill="none" stroke="#3a312b" stroke-width="5"/>
+    <path d="M200 150 C238 190 262 240 270 300" fill="none" stroke="#33496d" stroke-width="4"/>
+    <circle cx="200" cy="148" r="10" fill="#3a312b"/>
+    <path d="M300 288 C350 288 395 298 412 314 C422 324 412 334 396 332 L250 316 Z" fill="#33496d" stroke="#3a312b" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M70 300 H330" stroke="#3a312b" stroke-width="6" stroke-linecap="round"/>
+    <path d="M118 236 C138 222 158 220 172 228 M120 254 C140 240 160 238 174 246" fill="none" stroke="#f4ede6" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <!-- มือถือ -->
+  <g transform="rotate(7 455 200)">
+    <rect x="370" y="40" width="170" height="300" rx="26" fill="#2f2a27"/>
+    <rect x="382" y="58" width="146" height="264" rx="16" fill="#fbf8f2"/>
+    <rect x="430" y="46" width="50" height="7" rx="3.5" fill="#57504a"/>
+    <!-- หัวแชท -->
+    <circle cx="404" cy="82" r="12" fill="#d6b8cc"/>
+    <rect x="422" y="76" width="60" height="10" rx="5" fill="#cfc4b8"/>
+    <path d="M382 104 H528" stroke="#e3d9cf" stroke-width="3"/>
+    <!-- ฟองข้อความของเรา (ขวา) -->
+    <rect x="420" y="126" width="96" height="46" rx="20" fill="#8c5aa8"/>
+    <rect x="434" y="138" width="66" height="8" rx="4" fill="#fbf8f2"/>
+    <rect x="434" y="152" width="44" height="8" rx="4" fill="#fbf8f2"/>
+    <!-- หมวกจิ๋วในแชท -->
+    <path d="M462 205 c0-18 12-28 26-28 s26 10 26 28 z" fill="#4f6f9e"/>
+    <path d="M488 205 h30 c6 0 6 7 0 7 h-34" fill="#33496d"/>
+    <!-- ฟองของเธอ (ซ้าย) กำลังพิมพ์ -->
+    <rect x="394" y="236" width="74" height="40" rx="20" fill="#e8e0d8"/>
+    <circle cx="414" cy="256" r="5.5" fill="#8f857b"/>
+    <circle cx="431" cy="256" r="5.5" fill="#a89e94"/>
+    <circle cx="448" cy="256" r="5.5" fill="#c2b8ae"/>
+    <path d="M494 290 c-8-7-12-11-12-16 0-4 3-7 7-7 3 0 4 2 5 3 1-1 2-3 5-3 4 0 7 3 7 7 0 5-4 9-12 16z" fill="#c4554d"/>
+  </g>
+</svg>

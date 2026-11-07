@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450" viewBox="0 0 600 450">
+  <title>ไหลเรือไฟเชียงคาน: เรือไฟรูปหัวใจลอยกลางแม่น้ำโขง มีคนดูเต็มริมฝั่ง</title>
+  <rect width="600" height="450" fill="#8d93ad"/>
+  <rect y="0" width="600" height="140" fill="#7b819d"/>
+  <!-- ดาว -->
+  <g fill="#f7f1df">
+    <circle cx="60" cy="40" r="3"/><circle cx="140" cy="80" r="2.5"/><circle cx="230" cy="30" r="3"/><circle cx="400" cy="60" r="2.5"/>
+    <circle cx="470" cy="28" r="3"/><circle cx="550" cy="90" r="2.5"/><circle cx="320" cy="96" r="2"/>
+  </g>
+  <circle cx="520" cy="56" r="22" fill="#f4ecd2"/>
+  <!-- ภูเขาฝั่งลาว -->
+  <path d="M0 200 L90 150 L170 185 L260 140 L360 190 L450 150 L600 195 V215 H0 Z" fill="#5d6481"/>
+  <!-- แม่น้ำ -->
+  <rect y="210" width="600" height="160" fill="#6f7794"/>
+  <g stroke="#9ea4bd" stroke-width="4" stroke-linecap="round">
+    <path d="M40 236 h60 M160 252 h40 M470 240 h70 M420 300 h50 M60 320 h40 M520 330 h40"/>
+  </g>
+  <!-- เงาสะท้อนไฟ -->
+  <g stroke="#f6dc8e" stroke-width="6" stroke-linecap="round" opacity=".9">
+    <path d="M250 300 h100 M262 316 h76 M276 332 h48 M288 348 h24"/>
+  </g>
+  <!-- เรือ -->
+  <path d="M180 282 H420 L398 300 H202 Z" fill="#3a312b"/>
+  <path d="M300 280 V150" stroke="#3a312b" stroke-width="6"/>
+  <!-- หัวใจไฟ -->
+  <g fill="#ffe08a">
+    <circle cx="300" cy="270" r="7"/>
+    <circle cx="282" cy="254" r="7"/><circle cx="318" cy="254" r="7"/>
+    <circle cx="264" cy="238" r="7"/><circle cx="336" cy="238" r="7"/>
+    <circle cx="248" cy="220" r="7"/><circle cx="352" cy="220" r="7"/>
+    <circle cx="240" cy="200" r="7"/><circle cx="360" cy="200" r="7"/>
+    <circle cx="244" cy="180" r="7"/><circle cx="356" cy="180" r="7"/>
+    <circle cx="258" cy="166" r="7"/><circle cx="342" cy="166" r="7"/>
+    <circle cx="278" cy="164" r="7"/><circle cx="322" cy="164" r="7"/>
+    <circle cx="294" cy="176" r="7"/><circle cx="306" cy="176" r="7"/>
+  </g>
+  <g fill="#fff6d6"><circle cx="200" cy="282" r="5"/><circle cx="230" cy="282" r="5"/><circle cx="370" cy="282" r="5"/><circle cx="400" cy="282" r="5"/></g>
+  <!-- คนดูเต็มริมฝั่ง -->
+  <path d="M0 370 H600 V450 H0 Z" fill="#c9c1b4"/>
+  <g fill="#3a312b">
+    <circle cx="20" cy="372" r="16"/><circle cx="58" cy="366" r="18"/><circle cx="98" cy="374" r="15"/><circle cx="136" cy="364" r="18"/>
+    <circle cx="176" cy="372" r="16"/><circle cx="214" cy="368" r="17"/><circle cx="388" cy="370" r="17"/><circle cx="428" cy="364" r="18"/>
+    <circle cx="468" cy="372" r="16"/><circle cx="506" cy="366" r="18"/><circle cx="546" cy="374" r="15"/><circle cx="584" cy="366" r="17"/>
+    <path d="M0 386 H600 V450 H0 Z"/>
+  </g>
+  <!-- เราสองคน (ตรงกลาง สวมหมวก) -->
+  <g fill="#3a312b">
+    <circle cx="276" cy="360" r="18"/><circle cx="324" cy="364" r="16"/>
+    <path d="M256 352 c0-16 9-26 20-26 s20 10 20 26 z M276 352 h28 c5 0 5 6 0 6 h-28" />
+  </g>
+  <path d="M300 342 c-6-5-9-8-9-11 0-3 2-5 5-5 2 0 3 1 4 2 1-1 2-2 4-2 3 0 5 2 5 5 0 3-3 6-9 11z" fill="#f2a7b9"/>
+</svg>

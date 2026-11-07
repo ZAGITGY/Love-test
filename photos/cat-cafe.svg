@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450" viewBox="0 0 600 450">
+  <title>คาเฟ่แมว: แมวลายนั่งข้างแก้วกาแฟกับเค้กบนโต๊ะ</title>
+  <rect width="600" height="450" fill="#f2e9df"/>
+  <!-- หน้าต่างโค้ง -->
+  <path d="M60 260 V120 a90 90 0 0 1 180 0 V260 Z" fill="#5c4a3d"/>
+  <path d="M74 252 V122 a76 76 0 0 1 152 0 V252 Z" fill="#d8e6e9"/>
+  <path d="M150 46 V252 M74 170 H226" stroke="#5c4a3d" stroke-width="10"/>
+  <circle cx="196" cy="112" r="20" fill="#f7f0dc"/>
+  <!-- ชั้นวาง + กระถาง -->
+  <path d="M330 120 H540" stroke="#8a6a4f" stroke-width="10" stroke-linecap="round"/>
+  <rect x="356" y="78" width="40" height="42" rx="6" fill="#b5653f"/>
+  <path d="M376 78 c-14-26 -6-44 0-50 c6 6 14 24 0 50z" fill="#5e8b69"/>
+  <rect x="470" y="88" width="34" height="32" rx="6" fill="#d8c3a8"/>
+  <path d="M478 88 v-14 M496 88 v-10" stroke="#5e8b69" stroke-width="7" stroke-linecap="round"/>
+  <!-- รอยเท้าแมวบนผนัง -->
+  <g fill="#d8c8b6">
+    <circle cx="300" cy="200" r="11"/><circle cx="288" cy="184" r="5"/><circle cx="300" cy="180" r="5"/><circle cx="312" cy="184" r="5"/>
+    <circle cx="340" cy="232" r="9"/><circle cx="330" cy="219" r="4"/><circle cx="340" cy="216" r="4"/><circle cx="350" cy="219" r="4"/>
+  </g>
+  <!-- โต๊ะ -->
+  <path d="M0 330 H600 V450 H0 Z" fill="#7a5640"/>
+  <path d="M0 312 H600 V336 H0 Z" fill="#b88a64"/>
+  <!-- แมว -->
+  <g>
+    <path d="M330 314 C312 314 300 300 302 272 C304 236 322 214 350 204 L342 168 L372 192 C384 189 398 189 410 192 L440 168 L432 204 C460 214 478 236 480 272 C482 300 470 314 452 314 Z" fill="#8f8a85" stroke="#3a312b" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M354 214 l12 10 M428 214 l-12 10 M391 200 v16" stroke="#5f5a55" stroke-width="7" stroke-linecap="round"/>
+    <ellipse cx="370" cy="244" rx="9" ry="12" fill="#2f2a27"/>
+    <ellipse cx="412" cy="244" rx="9" ry="12" fill="#2f2a27"/>
+    <circle cx="373" cy="240" r="3" fill="#fbf8f2"/><circle cx="415" cy="240" r="3" fill="#fbf8f2"/>
+    <path d="M385 262 h12 l-6 7 z" fill="#c98b8b"/>
+    <path d="M391 269 c-4 8-12 8-16 4 M391 269 c4 8 12 8 16 4" fill="none" stroke="#3a312b" stroke-width="4" stroke-linecap="round"/>
+    <path d="M332 262 l-36 -6 M332 274 l-34 6 M450 262 l36 -6 M450 274 l34 6" stroke="#3a312b" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M330 300 c-40 6 -52 -16 -40 -30" fill="none" stroke="#8f8a85" stroke-width="16" stroke-linecap="round"/>
+    <path d="M354 314 c0-12 10-16 18-16 M428 314 c0-12-10-16-18-16" fill="none" stroke="#3a312b" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <!-- กาแฟ -->
+  <ellipse cx="150" cy="322" rx="70" ry="14" fill="#fbf8f2" stroke="#3a312b" stroke-width="5"/>
+  <path d="M104 262 H196 L188 314 Q150 328 112 314 Z" fill="#fbf8f2" stroke="#3a312b" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M194 274 C226 272 226 306 190 306" fill="none" stroke="#3a312b" stroke-width="8" stroke-linecap="round"/>
+  <ellipse cx="150" cy="262" rx="46" ry="10" fill="#8a5a3b" stroke="#3a312b" stroke-width="5"/>
+  <path d="M150 270 c-10-7-13-13-7-15 c3-1 6 1 7 3 c1-2 4-4 7-3 c6 2 3 8-7 15z" fill="#f1dfc4"/>
+  <path d="M136 236 c-10-12 10-18 0-32 M164 236 c-10-12 10-18 0-32" fill="none" stroke="#a3988d" stroke-width="6" stroke-linecap="round"/>
+  <!-- เค้ก -->
+  <path d="M500 322 h80 l-6 -50 l-68 -10 z" fill="#f1d7c7" stroke="#3a312b" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M506 272 l68 10 M504 294 l72 8" stroke="#c4554d" stroke-width="7"/>
+  <circle cx="530" cy="252" r="9" fill="#c4554d"/>
+</svg>
